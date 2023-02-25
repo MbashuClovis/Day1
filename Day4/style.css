@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  width: 100wh;
+  height: 100vh;
+  background-color: rgb(248, 205, 213);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.container {
+  width: 580px;
+  height: 280px;
+  background-color: pink;
+  border: 7px solid rgb(245, 216, 222);
+  border-radius: 10px;
+  padding-top: 10px;
+  padding: 25px;
+}
+.Pro-2 {
+  background-color: rgb(245, 216, 222);
+  padding: 4px;
+  border-radius: 10px;
+  height: 30px;
+  padding-top: 10px;
+}
+p {
+  line-height: 4px;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
